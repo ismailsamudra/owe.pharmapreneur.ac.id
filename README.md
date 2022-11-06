@@ -5,7 +5,8 @@ PHP version  Tester : 7.4
 # owe.pharmapreneur.ac.id
 
 ONLY DOMAIN 
-https://owe.pharmapreneur.ac.id/ OR http://owe.pharmapreneur.ac.id/
+* https://owe.pharmapreneur.ac.id/ 
+* http://owe.pharmapreneur.ac.id/
 
 # Web UI
 ![ice_screenshot_20221107-004247](https://user-images.githubusercontent.com/67509798/200183397-373ddea6-bd4e-469c-98a2-b805b96b0981.png)
