@@ -1,9 +1,9 @@
 # Firmwork Codeigniter 4
 
-# Pharmapreneur-app2
+# owe.pharmapreneur.ac.id
 
 ONLY DOMAIN 
-https://app2.ersal.store/
+https://owe.pharmapreneur.ac.id/ OR http://owe.pharmapreneur.ac.id/
 
 # Web UI
 
@@ -33,3 +33,5 @@ https://app2.ersal.store/
 
 ![ice_screenshot_20220809-011553](https://user-images.githubusercontent.com/67509798/183475837-58096666-2716-4e2e-9ce7-85472c0ae4b7.png)
 ![ice_screenshot_20220809-012034](https://user-images.githubusercontent.com/67509798/183476435-e463fdc8-2e71-419b-a73d-3e2b1463617e.png)
+
+KODE APP : 085111
