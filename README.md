@@ -1,5 +1,7 @@
 # Firmwork Codeigniter 4
 
+PHP version  Tester : 7.4
+
 # owe.pharmapreneur.ac.id
 
 ONLY DOMAIN 
